@@ -784,7 +784,7 @@
     -webkit-animation: showContent 2s linear 0s forwards;
     -moz-animation: showContent 2s linear 0s  forwards;
     animation: showContent 2s linear 0s forwards;
-    background-image: url('images160x600/bg_2.png');
+    background-image: url('images160x600/bg_1.png');
     -webkit-background-size: cover;
     background-size: cover;
     -webkit-animation: fadeOut .5s linear 2s forwards;
@@ -794,13 +794,13 @@
 .first .logo{
     width: 100%;
     height: 50px;
-    background: url('images160x600/fujifilm_log_white.png') no-repeat center center;
+    background: url('images160x600/logo_1.png') no-repeat center center;
     -webkit-animation: zoomOut 0.75s linear 0s forwards;
     -moz-animation: zoomOut 0.75s linear 0s forwards;
     animation: zoomOut 0.75s linear 0s forwards;
 }
 .first .first_text{
-    background: url('images160x600/second_text.png') no-repeat center center;
+    background: url('images160x600/text_1.png') no-repeat center center;
     height: 150px;
     width: 100%;
     -webkit-animation: fadeInDown 0.75s ease-in-out 0s forwards;
@@ -813,7 +813,7 @@
     -webkit-animation: fadeIn .5s linear 2s forwards;
     -moz-animation: fadeIn .5s linear 2s  forwards;
     animation: fadeIn .5s linear 2s forwards;
-    background-image: url('images160x600/bg_2.png');
+    background-image: url('images160x600/bg_1.png');
     -webkit-background-size: cover;
     background-size: cover;
     -webkit-animation: fadeOut .5s linear 4s forwards;
@@ -827,7 +827,7 @@
     right: 0;
     width: 100%;
     height: 100%;
-    background: url('images160x600/bg_3.png') no-repeat center center;
+    background: url('images160x600/bg_2.png') no-repeat center center;
     -webkit-animation: zoomOut 0.75s linear 2s forwards;
     -moz-animation: zoomOut 0.75s linear 2s forwards;
     animation: zoomOut 0.75s linear 2s forwards;
@@ -843,7 +843,7 @@
 
 }
 .second .second_text{
-    background: url('images160x600/third_text.png') no-repeat center center;
+    background: url('images160x600/text_2.png') no-repeat center center;
     height: 150px;
     width: 100%;
     -webkit-animation: fadeInDown 0.75s ease-in-out 2s forwards;
@@ -876,7 +876,7 @@
     -webkit-animation: zoomOut 0.75s linear 4s forwards;
     -moz-animation: zoomOut 0.75s linear 4s forwards;
     animation: zoomOut 0.75s linear 4s forwards;
-    background-image: url('images160x600/bg_1.png');
+    background-image: url('images160x600/bg_3.png');
     -webkit-background-size: cover;
     background-size: cover;
     height: 100%;
