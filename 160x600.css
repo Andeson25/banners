@@ -873,9 +873,9 @@
 }
 
 .bg_1_1{
-    -webkit-animation: zoomOut 0.75s linear 0.75s forwards;
-    -moz-animation: zoomOut 0.75s linear 0.75s forwards;
-    animation: zoomOut 0.75s linear 0.75s forwards;
+    -webkit-animation: zoomOut 0.75s linear 4s forwards;
+    -moz-animation: zoomOut 0.75s linear 4s forwards;
+    animation: zoomOut 0.75s linear 4s forwards;
     background-image: url('images160x600/bg_1.png');
     -webkit-background-size: cover;
     background-size: cover;
@@ -910,16 +910,16 @@
 
     position: relative;
     z-index: 12;
-    -webkit-animation: fadeInUp 0.75s ease-in-out 0.75s forwards;
-    -moz-animation: fadeInUp 0.75s ease-in-out 0.75s forwards;
-    animation: fadeInUp 0.75s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeInUp 0.75s ease-in-out 4s forwards;
+    -moz-animation: fadeInUp 0.75s ease-in-out 4s forwards;
+    animation: fadeInUp 0.75s ease-in-out 4s forwards;
 
 }
 
 .bg_1 h1 {
-    -webkit-animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
-    -moz-animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
-    animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeInDown 0.75s ease-in-out 4s forwards;
+    -moz-animation: fadeInDown 0.75s ease-in-out 4s forwards;
+    animation: fadeInDown 0.75s ease-in-out 4s forwards;
     position: relative;
     z-index: 12;
     font-size: 12px;
@@ -945,9 +945,9 @@
     z-index: 12;
     left: calc(50% - 62px);
     position: absolute;
-    -webkit-animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
-    -moz-animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
-    animation: fadeInDown 0.75s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeInDown 0.75s ease-in-out 4s forwards;
+    -moz-animation: fadeInDown 0.75s ease-in-out 4s forwards;
+    animation: fadeInDown 0.75s ease-in-out 4s forwards;
 
 }
 
@@ -956,9 +956,9 @@
     position: relative;
     z-index: 11;
     width: 100%;
-    -webkit-animation: fadeInUp100 0.75s ease-in-out 0.75s forwards;
-    -moz-animation: fadeInUp100 0.75s ease-in-out 0.75s forwards;
-    animation: fadeInUp100 0.75s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeInUp100 0.75s ease-in-out 4s forwards;
+    -moz-animation: fadeInUp100 0.75s ease-in-out 4s forwards;
+    animation: fadeInUp100 0.75s ease-in-out 4s forwards;
     font-size: 18px;
     font-family: "ProximaNova", sans-serif;
     letter-spacing: 1px;
@@ -975,9 +975,9 @@
 }
 
 .bottom img:last-child {
-    -webkit-animation: fadeIn 0.75s ease-in-out 0.75s forwards;
-    -moz-animation: fadeIn 0.75s ease-in-out 0.75s forwards;
-    animation: fadeIn 0.75s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeIn 0.75s ease-in-out 4s forwards;
+    -moz-animation: fadeIn 0.75s ease-in-out 4s forwards;
+    animation: fadeIn 0.75s ease-in-out 4s forwards;
     margin: 0 auto;
     position: absolute;
     bottom: 20px;
@@ -988,9 +988,9 @@
     position: absolute;
     bottom: 0;
     z-index: 20;
-    -webkit-animation: fadeIn 0s ease-in-out 0.75s forwards;
-    -moz-animation: fadeIn 0s ease-in-out 0.75s forwards;
-    animation: fadeIn 0s ease-in-out 0.75s forwards;
+    -webkit-animation: fadeIn 0s ease-in-out 4s forwards;
+    -moz-animation: fadeIn 0s ease-in-out 4s forwards;
+    animation: fadeIn 0s ease-in-out 4s forwards;
     display: flex;
     align-items: center;
     justify-content: center;
