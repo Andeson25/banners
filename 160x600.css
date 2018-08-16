@@ -914,7 +914,7 @@
     -moz-animation: fadeInUp 0.75s ease-in-out 8s forwards;
     animation: fadeInUp 0.75s ease-in-out 8s forwards;
 
-}8
+}
 .bg_1 h1 {
     -webkit-animation: fadeInDown 0.75s ease-in-out 8s forwards;
     -moz-animation: fadeInDown 0.75s ease-in-out 8s forwards;
@@ -957,7 +957,7 @@
     width: 100%;
     -webkit-animation: fadeInUp100 0.75s ease-in-out 8s forwards;
     -moz-animation: fadeInUp100 0.75s ease-in-out 8s forwards;
-    animation: fadeInUp100 0.75s ease-in-out 8 forwards;
+    animation: fadeInUp100 0.75s ease-in-out 8s forwards;
     font-size: 18px;
     font-family: "ProximaNova", sans-serif;
     letter-spacing: 1px;
