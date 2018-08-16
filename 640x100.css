@@ -158,3 +158,14 @@
     -moz-animation: fadeInRight 0.75s linear 10s forwards;
     animation: fadeInRight 0.75s linear 10s forwards;
 }
+.third .tap{
+    visibility: hidden;
+    position: absolute;
+    right: 0%;
+    width: 30%;
+    height: 100%;
+    background: url('images640x100/tap.png') no-repeat center center;
+    -webkit-animation: fadeIn 0.75s linear 12s forwards;
+    -moz-animation: fadeIn 0.75s linear 12s forwards;
+    animation: fadeIn 0.75s linear 12s forwards;
+}
