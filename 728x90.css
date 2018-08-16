@@ -1,0 +1,176 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container {
+    border: 1px solid black;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    width: 728px;
+    height: 90px;
+    visibility: visible;
+    -webkit-animation: fadeIn 0.75s linear 0s forwards;
+    -moz-animation: fadeIn 0.75s linear 0s forwards;
+    animation: fadeIn 0.75s linear 0s forwards;
+}
+.first{
+    z-index: 3;
+    visibility: hidden;
+
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    -webkit-animation: fadeOut 0.75s linear 4s forwards;
+    -moz-animation: fadeOut 0.75s linear 4s forwards;
+    animation: fadeOut 0.75s linear 4s forwards;
+}
+.first .bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url('images728x90/bg_1.png') no-repeat center center;
+    -webkit-animation: zoomOut 0.75s linear 0s forwards;
+    -moz-animation: zoomOut 0.75s linear 0s forwards;
+    animation: zoomOut 0.75s linear 0s forwards;
+}
+.first .logo{
+    position: absolute;
+    left: 2%;
+    width: 20%;
+    height: 100%;
+    background: url('images728x90/logo_1.png') no-repeat center center;
+    -webkit-animation: fadeInLeft100 0.75s linear 0s forwards;
+    -moz-animation: fadeInLeft100 0.75s linear 0s forwards;
+    animation: fadeInLeft100 0.75s linear 0s forwards;
+}
+.first .text{
+    position: absolute;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    background: url('images728x90/text_1.png') no-repeat center center;
+    -webkit-animation: fadeInRight100 0.75s linear 0s forwards;
+    -moz-animation: fadeInRight100 0.75s linear 0s forwards;
+    animation: fadeInRight100 0.75s linear 0s forwards;
+
+}
+.second{
+    z-index: 2;
+    position: absolute;
+    width: 80%;
+    visibility: hidden;
+    height: 100%;
+    -webkit-animation: fadeIn 0.75s linear 4s forwards;
+    -moz-animation: fadeIn 0.75s linear 4s forwards;
+    animation: fadeIn 0.75s linear 4s forwards;
+    -webkit-animation: fadeOut 0.75s linear 8s forwards;
+    -moz-animation: fadeOut 0.75s linear 8s forwards;
+    animation: fadeOut 0.75s linear 8s forwards;
+}
+.second .bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url('images728x90/bg_2.png') no-repeat center center;
+    -webkit-animation: zoomOut 0.75s linear 4s forwards;
+    -moz-animation: zoomOut 0.75s linear 4s forwards;
+    animation: zoomOut 0.75s linear 4s forwards;
+
+}
+.second .logo{
+    position: absolute;
+    left: 2%;
+    width: 20%;
+    height: 100%;
+    background: url('images728x90/logo_2.png') no-repeat center center;
+    -webkit-animation: fadeInUp 0.75s linear 4s forwards;
+    -moz-animation: fadeInUp 0.75s linear 4s forwards;
+    animation: fadeInUp 0.75s linear 4s forwards;
+}
+.second .text{
+    position: absolute;
+    right: 5px;
+    width: 26%;
+    height: 100%;
+    background: url('images728x90/text_2.png') no-repeat center center;
+    -webkit-animation: fadeInDown 0.75s linear 4s forwards;
+    -moz-animation: fadeInDown 0.75s linear 4s forwards;
+    animation: fadeInDown 0.75s linear 4s forwards;
+}
+
+.third{
+    z-index: 1;
+    visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-animation: fadeIn 0.75s linear 8s forwards;
+    -moz-animation: fadeIn 0.75s linear 8s forwards;
+    animation: fadeIn 0.75s linear 8s forwards;
+}
+.third .bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url('images728x90/bg_3.png') no-repeat center center;
+    -webkit-animation: zoomOut 0.75s linear 8s forwards;
+    -moz-animation: zoomOut 0.75s linear 8s forwards;
+    animation: zoomOut 0.75s linear 8s forwards;
+}
+.third .exp{
+    visibility: hidden;
+    position: absolute;
+    left: 0;
+    width: 16%;
+    height: 100%;
+    background: url('images728x90/100.png') no-repeat center center ;
+
+    
+    -webkit-animation: fadeInRight 0.75s linear 8s forwards;
+    -moz-animation: fadeInRight 0.75s linear 8s forwards;
+    animation: fadeInRight 0.75s linear 8s forwards;
+}
+.third .camera{
+    visibility: hidden;
+    position: absolute;
+    left: 14%;
+    width: 20%;
+    height: 100%;
+    background: url('images728x90/camera.png') no-repeat center center;
+
+    -webkit-animation: fadeInRight 0.75s linear 9s forwards;
+    -moz-animation: fadeInRight 0.75s linear 9s forwards;
+    animation: fadeInRight 0.75s linear 9s forwards;
+}
+.third .logo{
+    visibility: hidden;
+    position: absolute;
+    left: 32%;
+    width: 25%;
+    height: 100%;
+    background: url('images728x90/logo_3.png') no-repeat center center;
+    -webkit-background-size: 80%;
+    background-size: 80%;
+
+    -webkit-animation: fadeInRight 0.75s linear 10s forwards;
+    -moz-animation: fadeInRight 0.75s linear 10s forwards;
+    animation: fadeInRight 0.75s linear 10s forwards;
+}
+
+
+
+footer{
+    -webkit-animation: zoomOut 0.75s linear 0s forwards;
+    -moz-animation: zoomOut 0.75s linear 0s forwards;
+    animation: zoomOut 0.75s linear 0s forwards;
+    height: 100%;
+    width: 20%;
+    z-index: 4;
+    position: absolute;
+    right: 0;
+    background: url('images728x90/footer.png') no-repeat center center;
+}
