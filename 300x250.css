@@ -34,7 +34,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background: url('images300x250/bg_1.png') no-repeat center center;
+    background: url('images/bg_1(300x250).png') no-repeat center center;
     -webkit-animation: zoomOut 0.75s linear 0s forwards;
     -moz-animation: zoomOut 0.75s linear 0s forwards;
     animation: zoomOut 0.75s linear 0s forwards;
@@ -46,7 +46,7 @@
     top: 0;
     width: 100%;
     height: 40%;
-    background: url('images300x250/text_1.png') no-repeat center center;
+    background: url('images/text_1(300x250).png') no-repeat center center;
     -webkit-animation: fadeInRight100 0.75s linear 0s forwards;
     -moz-animation: fadeInRight100 0.75s linear 0s forwards;
     animation: fadeInRight100 0.75s linear 0s forwards;
@@ -71,7 +71,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background: url('images300x250/bg_2.png') no-repeat center center;
+    background: url('images/bg_2(300x250).png') no-repeat center center;
     -webkit-animation: zoomOut 0.75s linear 4s forwards;
     -moz-animation: zoomOut 0.75s linear 4s forwards;
     animation: zoomOut 0.75s linear 4s forwards;
@@ -83,7 +83,7 @@
     top: 0;
     width: 100%;
     height: 40%;
-    background: url('images300x250/text_2.png') no-repeat center center;
+    background: url('images/text_2(300x250).png') no-repeat center center;
     -webkit-animation: fadeInLeft100 0.75s linear 4s forwards;
     -moz-animation: fadeInLeft100 0.75s linear 4s forwards;
     animation: fadeInLeft100 0.75s linear 4s forwards;
@@ -103,7 +103,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background: url('images300x250/bg_3.png') no-repeat center center;
+    background: url('images/bg_3(300x250).png') no-repeat center center;
     -webkit-animation: zoomOut 0.75s linear 8s forwards;
     -moz-animation: zoomOut 0.75s linear 8s forwards;
     animation: zoomOut 0.75s linear 8s forwards;
@@ -115,7 +115,7 @@
     left: 0;
     width: 100%;
     height: 135px;
-    background: url('images300x250/100.png') no-repeat center center ;
+    background: url('images/100(300x250).png') no-repeat center center ;
 
     -webkit-animation: fadeInDown 0.75s linear 8.5s forwards;
     -moz-animation: fadeInDown 0.75s linear 8.5s forwards;
@@ -128,7 +128,7 @@
     top: 35%;
     width: 100%;
     height: 82px;
-    background: url('images300x250/camera.png') no-repeat center center;
+    background: url('images/camera(300x250).png') no-repeat center center;
 
     -webkit-animation: fadeInUp 0.75s linear 9s forwards;
     -moz-animation: fadeInUp 0.75s linear 9s forwards;
@@ -141,7 +141,7 @@
     bottom: 60px;
     width: 50%;
     height: 18px;
-    background: url('images300x250/logo_3.png') no-repeat center center;
+    background: url('images/logo_3(300x250).png') no-repeat center center;
 
 
     -webkit-animation: fadeInLeft 0.75s linear 10s forwards;
@@ -155,7 +155,7 @@
     bottom: 55px;
     width: 50%;
     height: 24px;
-    background: url('images300x250/text_3.png') no-repeat center center;
+    background: url('images/text_3(300x250).png') no-repeat center center;
 
 
     -webkit-animation: fadeInRight 0.75s linear 10s forwards;
@@ -173,5 +173,5 @@ footer {
     position: absolute;
     right: 0;
     bottom: 0;
-    background: url('images300x250/footer.png') no-repeat center center;
+    background: url('images/footer(300x250).png') no-repeat center center;
 }
